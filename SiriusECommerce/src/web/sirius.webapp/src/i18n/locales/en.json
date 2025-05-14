@@ -1,0 +1,271 @@
+{
+    "brand": "Sirius Store",
+    "nav": {
+      "products": "Products",
+      "support": "Support",
+      "contact": "Contact",
+      "login": "Login",
+      "register": "Register",
+      "logout": "Logout",
+      "cart": "Cart",
+      "aboutUs": "About us",
+      "description": "COOLING DEVICES FOR HOTELS"
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "products": "Products",
+      "cart": "Cart",
+      "checkout": "Checkout",
+      "support": "Support",
+      "contact": "Contact",
+      "help": "Help",
+      "login": "Login",
+      "register": "Register"
+    },
+    "checkout": {
+      "steps": {
+        "shipping": "Shipping",
+        "billing": "Billing",
+        "payment": "Payment",
+        "review": "Review"
+      },
+      "shippingMethods": {
+        "standard": "Standard Delivery",
+        "express": "Express Delivery",
+        "nextDay": "Next Day Delivery"
+      }
+    },
+    "product": {
+      "title": "Products"
+    },
+    "footer": {
+      "aboutUs":  "About us",
+      "aboutUsDescription": "We provide high-quality equipment for hotels and commercial establishments, focusing on excellence and durability.",
+      "quickLinks": "Quick Links",
+      "description": "COOLING DEVICES FOR HOTELS",
+      "allRightsReserved": "All rights reserved.",
+      "contact": "Contact",
+      "help": "Help",
+      "support": "Support",
+      "ourLocations": "Our locations",
+      "secureSite": "Secure and protected site",
+      "group": "Group",
+      "qualityCertifications": "Quality and certification"
+    },
+    "routes": {
+      "home": "home",
+      "products": "products",
+      "contact": "contact",
+      "help": "help",
+      "register": "register",
+      "login": "login",
+      "cart": "cart",
+      "forgotPassword": "forgot-password",
+      "group": "group",
+      "qualityCertifications": "quality-certifications"      
+    },
+
+
+    "auth": {
+      "login": {
+        "title": "Sign in to your account",
+        "subtitle": "Don't have an account yet?",
+        "registerLink": "Register",
+        "rememberMe": "Remember me",
+        "forgotPassword": "Forgot your password?",
+        "submit": "Sign in",
+        "loggingIn": "Signing in...",
+        "orContinueWith": "Or continue with"
+      },
+      "register": {
+        "title": "Create your account",
+        "subtitle": "Already have an account?",
+        "loginLink": "Sign in",
+        "agreeToTerms": "I agree to the",
+        "termsLink": "Terms of Service",
+        "privacyLink": "Privacy Policy",
+        "submit": "Register",
+        "registering": "Registering...",
+        "orContinueWith": "Or continue with"
+      },
+      "fields": {
+        "firstName": "First Name",
+        "lastName": "Last Name",
+        "email": "Email",
+        "password": "Password",
+        "confirmPassword": "Confirm Password"
+      },
+      "passwordStrength": {
+        "veryWeak": "Very weak",
+        "weak": "Weak",
+        "medium": "Medium",
+        "good": "Good",
+        "strong": "Strong",
+        "excellent": "Excellent",
+        "minChars": "8+ characters",
+        "uppercase": "Uppercase letter",
+        "lowercase": "Lowercase letter",
+        "number": "Number",
+        "specialChar": "Special character"
+      },
+      "errors": {
+        "invalidCredentials": "Invalid email or password.",
+        "emailAlreadyInUse": "This email is already in use.",
+        "passwordsDontMatch": "Passwords don't match.",
+        "serverError": "A server error occurred. Please try again later.",
+        "connectionError": "Could not connect to the server. Please check your internet connection."
+      },
+      "forgotPassword": {
+        "title": "Reset your password",
+        "subtitle": "Enter your email to receive password reset instructions.",
+        "submit": "Send",
+        "sending": "Sending...",
+        "successMessage": "If the email exists in our system, you will receive instructions to reset your password.",
+        "backToLogin": "Back to Login"
+      }
+    },   
+    "animation": {
+      "skip": "Skip Introduction",
+      "enter": "Explore Sirius",
+      "loading": "Loading...",
+      "trustBadge": "Quality and Trusted Equipment since 1957"
+    },
+
+    "home": {
+    "pageTitle": "Sirius - Professional Refrigeration Equipment",
+    "pageDescription": "Complete refrigeration solutions for hotels, restaurants and commercial establishments",
+    "welcome": "Welcome to Sirius",
+    "subtitle": "High-quality cold equipment solutions for the hospitality industry",
+    "hero": {
+      "title": "High-Quality Hotel Equipment",
+      "description": "Transform your hotel with our complete line of professional equipment",
+      "button": "Explore Products"
+    },
+    "benefits": {
+      "guarantee": {
+        "title": "Extended Warranty",
+        "description": "All products with up to 3 years warranty"
+      },
+      "delivery": {
+        "title": "Free Shipping",
+        "description": "For orders over $1,000"
+      },
+      "support": {
+        "title": "24/7 Support",
+        "description": "Specialized technical assistance"
+      }
+    },
+    "trending": {
+      "title": "Most Popular",
+      "subtitle": "Our customers' favorite products",
+      "viewAll": "View all"
+    },
+    "features": {
+      "title": "Our Advantages",
+      "premiumProducts": {
+        "title": "Premium Products",
+        "description": "High-quality equipment for your business"
+      },
+      "warranty": {
+        "title": "Extended Warranty",
+        "description": "Safety and peace of mind with your purchase"
+      },
+      "delivery": {
+        "title": "Fast Delivery",
+        "description": "Shipping throughout the European Union"
+      },
+      "support": {
+        "title": "24/7 Support",
+        "description": "Specialized assistance always available"
+      }
+    },
+    "categories": {
+      "title": "Featured Categories",
+      "kitchen": "Commercial Kitchen",
+      "laundry": "Laundry",
+      "furniture": "Furniture",
+      "explore": "Explore Category"
+    },
+    "quality": {
+      "title": "Quality and Technology",
+      "description": "Our company specializes in providing the best refrigeration solutions for the hotel industry, focusing on quality, energy efficiency, and cutting-edge technology."
+    },
+    "products": {
+      "title": "Our Products",
+      "subtitle": "Complete solutions for your establishment",
+      "refrigeratorsTitle": "Refrigerators",
+      "freezersTitle": "Freezers",
+      "coldRoomsTitle": "Cold Rooms",
+      "description": "High-quality, energy-efficient equipment for your business.",
+      "refrigerators": {
+        "description": "Commercial refrigerators with advanced preservation technology and low energy consumption.",
+        "feature1": "Digital temperature control",
+        "feature2": "Doors with thermal insulation",
+        "feature3": "Eco-friendly system"
+      },
+      "freezers": {
+        "description": "Vertical and horizontal freezers for long-term storage with high efficiency.",
+        "feature1": "Fast and uniform freezing",
+        "feature2": "Automatic defrost system",
+        "feature3": "Low noise level"
+      },
+      "coldRooms": {
+        "description": "Customizable modular cold rooms for different needs.",
+        "feature1": "Custom installation",
+        "feature2": "Remote control via app",
+        "feature3": "Energy savings of up to 40%"
+      },
+      "button": "Learn more",
+      "details": "Details",
+      "viewAll": "View all products"
+    },
+    "whyChooseUs": {
+      "title": "Why choose us?",
+      "experience": {
+        "title": "Experience",
+        "description": "Over 15 years providing high-quality equipment for the hospitality industry."
+      },
+      "efficiency": {
+        "title": "Efficiency",
+        "description": "Our equipment is designed to maximize energy efficiency and reduce operating costs."
+      },
+      "quality": {
+        "title": "Quality",
+        "description": "We work only with the best brands and materials, ensuring durability and reliability."
+      }
+    },
+    "testimonials": {
+      "title": "What our customers say",
+      "viewAll": "View all testimonials"
+    },
+    "blog": {
+      "title": "Blog & Tips",
+      "viewAll": "View all articles"
+    },
+    "newsletter": {
+      "title": "Stay updated!",
+      "description": "Subscribe to our newsletter and receive tips, exclusive promotions, and news from the commercial refrigeration sector.",
+      "placeholder": "Your professional email",
+      "button": "Subscribe",
+      "privacy": "We respect your privacy. You can unsubscribe at any time."
+    },
+    "partners": {
+      "title": "Partners and Brands"
+    },
+    "cta": {
+      "title": "Ready to transform your business?",
+      "description": "Talk to our experts and discover how our refrigeration equipment can optimize your establishment.",
+      "contactButton": "Contact us",
+      "catalogButton": "Download catalog"
+    },    
+    "errors": {
+      "badRequest": "The request is invalid. Please check your data.",
+      "unauthorized": "You need to login to access this feature.",
+      "forbidden": "You don't have permission to access this resource.",
+      "notFound": "The requested resource was not found.",
+      "serverError": "An error occurred on the server. Please try again later.",
+      "unknown": "An unexpected error occurred. Please try again."
+    }
+    
+  }
+}

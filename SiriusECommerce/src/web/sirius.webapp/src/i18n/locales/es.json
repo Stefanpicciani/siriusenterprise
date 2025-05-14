@@ -1,0 +1,271 @@
+{
+    "brand": "Sirius Store",
+    "nav": {
+      "products": "Productos",
+      "support": "Soporte",
+      "contact": "Contacto",
+      "login": "Iniciar Sesión",
+      "register": "Registrarse",
+      "logout": "Cerrar Sesión",
+      "cart": "Carrito",
+      "aboutUs": "Sobre nosotros",
+      "description": "EQUIPOS FRÍOS HOTELEROS"
+    },
+    "breadcrumb": {
+      "home": "Inicio",
+      "products": "Productos",
+      "cart": "Carrito",
+      "checkout": "Finalizar Compra",
+      "support": "Soporte",
+      "contact": "Contacto",
+      "help": "Ayuda",
+      "login": "Iniciar Sesión",
+      "register": "Registrarse"
+    },
+    "checkout": {
+      "steps": {
+        "shipping": "Envío",
+        "billing": "Facturación",
+        "payment": "Pago",
+        "review": "Revisión"
+      },
+      "shippingMethods": {
+        "standard": "Entrega Estándar",
+        "express": "Entrega Express",
+        "nextDay": "Entrega al Día Siguiente"
+      }
+    },
+    "product": {
+      "title": "Productos"
+    },
+    "footer": {
+      "aboutUs": "Sobre nosotros",
+      "aboutUsDescription": "Proporcionamos equipos de alta calidad para hoteles y establecimientos comerciales, con un enfoque en la excelencia y la durabilidad.",
+      "quickLinks": "Enlaces Rápidos",
+      "description": "EQUIPOS FRÍOS HOTELEROS",
+      "allRightsReserved": "Todos los derechos reservados.",
+      "contact": "Contacto",
+      "help": "Ayuda",
+      "support": "Soporte",
+      "ourLocations": "Nuestras ubicaciones",
+      "secureSite": "Sitio seguro y protegido",
+      "group": "Grupo",
+      "qualityCertifications": "Calidad y certificación"
+    }    ,
+    "routes": {
+      "home": "inicio",
+      "products": "productos",
+      "contact": "contacto",
+      "help": "ayuda",
+      "register": "registrarse",
+      "login": "iniciarsesion",
+      "cart": "carrito",
+      "forgotPassword": "olvidarcontrasena",
+      "group": "grupo",
+      "qualityCertifications": "certificaciones-de-calidad"
+    },
+
+
+    "auth": {
+      "login": {
+        "title": "Inicia sesión en tu cuenta",
+        "subtitle": "¿No tienes una cuenta?",
+        "registerLink": "Regístrate",
+        "rememberMe": "Recordarme",
+        "forgotPassword": "¿Olvidaste tu contraseña?",
+        "submit": "Iniciar sesión",
+        "loggingIn": "Iniciando sesión...",
+        "orContinueWith": "O continuar con"
+      },
+      "register": {
+        "title": "Crea tu cuenta",
+        "subtitle": "¿Ya tienes una cuenta?",
+        "loginLink": "Inicia sesión",
+        "agreeToTerms": "Estoy de acuerdo con los",
+        "termsLink": "Términos de Servicio",
+        "privacyLink": "Política de Privacidad",
+        "submit": "Registrarse",
+        "registering": "Registrando...",
+        "orContinueWith": "O continuar con"
+      },
+      "fields": {
+        "firstName": "Nombre",
+        "lastName": "Apellido",
+        "email": "Correo electrónico",
+        "password": "Contraseña",
+        "confirmPassword": "Confirmar contraseña"
+      },
+      "passwordStrength": {
+        "veryWeak": "Muy débil",
+        "weak": "Débil",
+        "medium": "Media",
+        "good": "Buena",
+        "strong": "Fuerte",
+        "excellent": "Excelente",
+        "minChars": "8+ caracteres",
+        "uppercase": "Letra mayúscula",
+        "lowercase": "Letra minúscula",
+        "number": "Número",
+        "specialChar": "Carácter especial"
+      },
+      "errors": {
+        "invalidCredentials": "Correo electrónico o contraseña inválidos.",
+        "emailAlreadyInUse": "Este correo electrónico ya está en uso.",
+        "passwordsDontMatch": "Las contraseñas no coinciden.",
+        "serverError": "Ocurrió un error en el servidor. Por favor, inténtalo más tarde.",
+        "connectionError": "No se pudo conectar al servidor. Por favor, verifica tu conexión a internet."
+      },
+      "forgotPassword": {
+        "title": "Restablecer contraseña",
+        "subtitle": "Ingresa tu correo electrónico para recibir instrucciones de restablecimiento de contraseña.",
+        "submit": "Enviar",
+        "sending": "Enviando...",
+        "successMessage": "Si el correo electrónico existe en nuestro sistema, recibirás instrucciones para restablecer tu contraseña.",
+        "backToLogin": "Volver a Iniciar sesión"
+      }
+    },
+
+    "animation": {
+      "skip": "Saltar Introducción",
+      "enter": "Explorar Sirius",
+      "loading": "Cargando...",
+      "trustBadge": "Equipos de Calidad y Confianza desde 1957"
+    },
+
+    "home": {
+    "pageTitle": "Sirius - Equipos de Refrigeración Profesional",
+    "pageDescription": "Soluciones completas de refrigeración para hoteles, restaurantes y establecimientos comerciales",
+    "welcome": "Bienvenido a Sirius",
+    "subtitle": "Soluciones de equipos de frío de alta calidad para la hostelería",
+    "hero": {
+      "title": "Equipamiento Hotelero de Alta Calidad",
+      "description": "Transforma tu hotel con nuestra línea completa de equipos profesionales",
+      "button": "Explorar Productos"
+    },
+    "benefits": {
+      "guarantee": {
+        "title": "Garantía Extendida",
+        "description": "Todos los productos con hasta 3 años de garantía"
+      },
+      "delivery": {
+        "title": "Envío Gratuito",
+        "description": "Para pedidos superiores a 1.000 €"
+      },
+      "support": {
+        "title": "Soporte 24/7",
+        "description": "Asistencia técnica especializada"
+      }
+    },
+    "trending": {
+      "title": "Más Buscados",
+      "subtitle": "Los productos favoritos de nuestros clientes",
+      "viewAll": "Ver todos"
+    },
+    "features": {
+      "title": "Nuestras Ventajas",
+      "premiumProducts": {
+        "title": "Productos Premium",
+        "description": "Equipos de alta calidad para su negocio"
+      },
+      "warranty": {
+        "title": "Garantía Extendida",
+        "description": "Seguridad y tranquilidad en su compra"
+      },
+      "delivery": {
+        "title": "Entrega Rápida",
+        "description": "Envío a toda la Unión Europea"
+      },
+      "support": {
+        "title": "Soporte 24/7",
+        "description": "Asistencia especializada siempre disponible"
+      }
+    },
+    "categories": {
+      "title": "Categorías Destacadas",
+      "kitchen": "Cocina Industrial",
+      "laundry": "Lavandería",
+      "furniture": "Mobiliario",
+      "explore": "Explorar Categoría"
+    },
+    "quality": {
+      "title": "Calidad y Tecnología",
+      "description": "Nuestra empresa está especializada en proporcionar las mejores soluciones de refrigeración para el sector hotelero, centrándonos en la calidad, la eficiencia energética y la tecnología de vanguardia."
+    },
+    "products": {
+      "title": "Nuestros Productos",
+      "subtitle": "Soluciones completas para su establecimiento",
+      "refrigeratorsTitle": "Refrigeradores",
+      "freezersTitle": "Congeladores",
+      "coldRoomsTitle": "Cámaras Frigoríficas",
+      "description": "Equipos de alta calidad y eficiencia energética para su negocio.",
+      "refrigerators": {
+        "description": "Refrigeradores comerciales con tecnología avanzada de conservación y bajo consumo energético.",
+        "feature1": "Control digital de temperatura",
+        "feature2": "Puertas con aislamiento térmico",
+        "feature3": "Sistema eco-friendly"
+      },
+      "freezers": {
+        "description": "Congeladores verticales y horizontales para almacenamiento a largo plazo con alta eficiencia.",
+        "feature1": "Congelación rápida y uniforme",
+        "feature2": "Sistema de descongelación automático",
+        "feature3": "Bajo nivel de ruido"
+      },
+      "coldRooms": {
+        "description": "Cámaras frigoríficas modulares personalizables para diferentes necesidades.",
+        "feature1": "Instalación personalizada",
+        "feature2": "Control remoto vía aplicación",
+        "feature3": "Ahorro energético de hasta un 40%"
+      },
+      "button": "Saber más",
+      "details": "Detalles",
+      "viewAll": "Ver todos los productos"
+    },
+    "whyChooseUs": {
+      "title": "¿Por qué elegirnos?",
+      "experience": {
+        "title": "Experiencia",
+        "description": "Más de 15 años proporcionando equipos de alta calidad para el sector hotelero."
+      },
+      "efficiency": {
+        "title": "Eficiencia",
+        "description": "Nuestros equipos están diseñados para maximizar la eficiencia energética y reducir los costes operativos."
+      },
+      "quality": {
+        "title": "Calidad",
+        "description": "Trabajamos solo con las mejores marcas y materiales, garantizando durabilidad y fiabilidad."
+      }
+    },
+    "testimonials": {
+      "title": "Lo que dicen nuestros clientes",
+      "viewAll": "Ver todas las opiniones"
+    },
+    "blog": {
+      "title": "Blog y Consejos",
+      "viewAll": "Ver todos los artículos"
+    },
+    "newsletter": {
+      "title": "¡Mantente actualizado!",
+      "description": "Suscríbete a nuestro boletín y recibe consejos, promociones exclusivas y novedades del sector de la refrigeración comercial.",
+      "placeholder": "Tu correo electrónico profesional",
+      "button": "Suscribirse",
+      "privacy": "Respetamos tu privacidad. Puedes cancelar la suscripción en cualquier momento."
+    },
+    "partners": {
+      "title": "Socios y Marcas"
+    },
+    "cta": {
+      "title": "¿Listo para transformar tu negocio?",
+      "description": "Habla con nuestros expertos y descubre cómo nuestros equipos de refrigeración pueden optimizar tu establecimiento.",
+      "contactButton": "Contactar",
+      "catalogButton": "Descargar catálogo"
+    },
+    "errors": {
+      "badRequest": "La solicitud no es válida. Por favor, compruebe sus datos",
+      "unauthorized": "Necesita iniciar sesión para acceder a esta función.",
+      "forbidden": "No tienes permiso para acceder a este recurso.",
+      "notFound": "El recurso solicitado no fue encontrado.",      
+      "serverError": "Se ha producido un error en el servidor. Inténtelo de nuevo más tarde.",
+      "unknown": "Se ha producido un error inesperado. Please try again."
+    }    
+  }
+}

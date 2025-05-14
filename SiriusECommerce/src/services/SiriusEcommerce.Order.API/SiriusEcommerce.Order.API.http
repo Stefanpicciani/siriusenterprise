@@ -1,0 +1,6 @@
+@SiriusEcommerce.Order.API_HostAddress = http://localhost:5153
+
+GET {{SiriusEcommerce.Order.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

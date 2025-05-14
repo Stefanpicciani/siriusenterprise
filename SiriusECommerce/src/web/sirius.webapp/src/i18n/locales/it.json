@@ -1,0 +1,273 @@
+{
+    "brand": "Sirius Store",
+    "nav": {
+      "products": "Prodotti",
+      "support": "Supporto",
+      "contact": "Contatti",
+      "login": "Accedi",
+      "register": "Registrati",
+      "logout": "Esci",
+      "cart": "Carrello",
+      "aboutUs": "Chi siamo",
+      "description": "ATTREZZATURE FREDDE ALBERGHIERE"
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "products": "Prodotti",
+      "cart": "Carrello",
+      "checkout": "Checkout",
+      "support": "Supporto",
+      "contact": "Contatti",
+      "help": "Aiuto",
+      "login": "Accedi",
+      "register": "Registrati"
+    },
+    "checkout": {
+      "steps": {
+        "shipping": "Spedizione",
+        "billing": "Fatturazione",
+        "payment": "Pagamento",
+        "review": "Revisione"
+      },
+      "shippingMethods": {
+        "standard": "Consegna Standard",
+        "express": "Consegna Espressa",
+        "nextDay": "Consegna il Giorno Successivo"
+      }
+    },
+    "product": {
+      "title": "Prodotti"
+    },
+    "footer": {
+      "aboutUs": "Chi siamo",
+      "aboutUsDescription": "Forniamo attrezzature di alta qualità per hotel e strutture commerciali, con un focus su eccellenza e durata.",
+      "products": "Prodotti",
+      "quickLinks": "Link Rapidi",
+      "description": "ATTREZZATURE FREDDE ALBERGHIERE",
+      "allRightsReserved": "Tutti i diritti riservati.",
+      "contact": "Contatti",
+      "help": "Aiuto",
+      "support": "Supporto",
+      "ourLocations": "Le nostre sedi",
+      "secureSite": "Sito sicuro e protetto",
+      "group": "Gruppo",
+      "qualityCertifications": "Qualità e certificazioni"
+    },
+    "routes": {
+      "home": "casa",
+      "products": "prodotti",
+      "contact": "contatto",
+      "help": "aiuto",
+      "register": "registrati",
+      "login": "accedi",
+      "cart": "carrello",
+      "forgotPassword": "passwordDimenticata",
+      "group": "gruppo",
+      "qualityCertifications":"qualita-e-certificazioni"
+    },
+
+
+    "auth": {
+      "login": {
+        "title": "Accedi al tuo account",
+        "subtitle": "Non hai ancora un account?",
+        "registerLink": "Registrati",
+        "rememberMe": "Ricordami",
+        "forgotPassword": "Hai dimenticato la password?",
+        "submit": "Accedi",
+        "loggingIn": "Accesso in corso...",
+        "orContinueWith": "O continua con"
+      },
+      "register": {
+        "title": "Crea il tuo account",
+        "subtitle": "Hai già un account?",
+        "loginLink": "Accedi",
+        "agreeToTerms": "Accetto i",
+        "termsLink": "Termini di Servizio",
+        "privacyLink": "Informativa sulla Privacy",
+        "submit": "Registrati",
+        "registering": "Registrazione in corso...",
+        "orContinueWith": "O continua con"
+      },
+      "fields": {
+        "firstName": "Nome",
+        "lastName": "Cognome",
+        "email": "Email",
+        "password": "Password",
+        "confirmPassword": "Conferma Password"
+      },
+      "passwordStrength": {
+        "veryWeak": "Molto debole",
+        "weak": "Debole",
+        "medium": "Media",
+        "good": "Buona",
+        "strong": "Forte",
+        "excellent": "Eccellente",
+        "minChars": "8+ caratteri",
+        "uppercase": "Lettera maiuscola",
+        "lowercase": "Lettera minuscola",
+        "number": "Numero",
+        "specialChar": "Carattere speciale"
+      },
+      "errors": {
+        "invalidCredentials": "Email o password non validi.",
+        "emailAlreadyInUse": "Questa email è già in uso.",
+        "passwordsDontMatch": "Le password non coincidono.",
+        "serverError": "Si è verificato un errore nel server. Riprova più tardi.",
+        "connectionError": "Impossibile connettersi al server. Controlla la tua connessione internet."
+      },
+      "forgotPassword": {
+        "title": "Recupera la password",
+        "subtitle": "Inserisci la tua email per ricevere istruzioni per reimpostare la password.",
+        "submit": "Invia",
+        "sending": "Invio in corso...",
+        "successMessage": "Se l'email esiste nel nostro sistema, riceverai istruzioni per reimpostare la password.",
+        "backToLogin": "Torna al Login"
+      }
+    },
+    "animation": {
+      "skip": "Salta Introduzione",
+      "enter": "Esplora Sirius",
+      "loading": "Caricamento...",
+      "trustBadge": "Attrezzature di Qualità e Affidabilità dal 1957"
+    },
+
+    "home": {
+      "pageTitle": "Sirius - Attrezzature di Refrigerazione Professionale",
+      "pageDescription": "Soluzioni complete di refrigerazione per hotel, ristoranti e attività commerciali",
+      "welcome": "Benvenuto a Sirius",
+      "subtitle": "Soluzioni di attrezzature fredde di alta qualità per il settore alberghiero",
+      "hero": {
+        "title": "Attrezzature Alberghiere di Alta Qualità",
+        "description": "Trasforma il tuo hotel con la nostra linea completa di attrezzature professionali",
+        "button": "Esplora Prodotti"
+      },
+      "benefits": {
+        "guarantee": {
+          "title": "Garanzia Estesa",
+          "description": "Tutti i prodotti con fino a 3 anni di garanzia"
+        },
+        "delivery": {
+          "title": "Spedizione Gratuita",
+          "description": "Per ordini superiori a 1.000 €"
+        },
+        "support": {
+          "title": "Supporto 24/7",
+          "description": "Assistenza tecnica specializzata"
+        }
+      },
+      "trending": {
+        "title": "I Più Richiesti",
+        "subtitle": "I prodotti preferiti dai nostri clienti",
+        "viewAll": "Vedi tutti"
+      },
+      "features": {
+        "title": "I Nostri Vantaggi",
+        "premiumProducts": {
+          "title": "Prodotti Premium",
+          "description": "Attrezzature di alta qualità per la tua attività"
+        },
+        "warranty": {
+          "title": "Garanzia Estesa",
+          "description": "Sicurezza e tranquillità con il tuo acquisto"
+        },
+        "delivery": {
+          "title": "Consegna Rapida",
+          "description": "Spedizione in tutta l'Unione Europea"
+        },
+        "support": {
+          "title": "Supporto 24/7",
+          "description": "Assistenza specializzata sempre disponibile"
+        }
+      },
+      "categories": {
+        "title": "Categorie in Evidenza",
+        "kitchen": "Cucina Industriale",
+        "laundry": "Lavanderia",
+        "furniture": "Arredamento",
+        "explore": "Esplora Categoria"
+      },
+      "quality": {
+        "title": "Qualità e Tecnologia",
+        "description": "La nostra azienda è specializzata nel fornire le migliori soluzioni di refrigerazione per il settore alberghiero, concentrandosi su qualità, efficienza energetica e tecnologia all'avanguardia."
+      },
+      "products": {
+        "title": "I Nostri Prodotti",
+        "subtitle": "Soluzioni complete per la tua attività",
+        "refrigeratorsTitle": "Frigoriferi",
+        "freezersTitle": "Congelatori",
+        "coldRoomsTitle": "Celle Frigorifere",
+        "description": "Attrezzature di alta qualità ed efficienza energetica per la tua attività.",
+        "refrigerators": {
+          "description": "Frigoriferi commerciali con tecnologia avanzata di conservazione e basso consumo energetico.",
+          "feature1": "Controllo digitale della temperatura",
+          "feature2": "Porte con isolamento termico",
+          "feature3": "Sistema ecologico"
+        },
+        "freezers": {
+          "description": "Congelatori verticali e orizzontali per lo stoccaggio a lungo termine con alta efficienza.",
+          "feature1": "Congelamento rapido e uniforme",
+          "feature2": "Sistema di sbrinamento automatico",
+          "feature3": "Basso livello di rumore"
+        },
+        "coldRooms": {
+          "description": "Celle frigorifere modulari personalizzabili per diverse esigenze.",
+          "feature1": "Installazione personalizzata",
+          "feature2": "Controllo remoto tramite app",
+          "feature3": "Risparmio energetico fino al 40%"
+        },
+        "button": "Scopri di più",
+        "details": "Dettagli",
+        "viewAll": "Vedi tutti i prodotti"
+      },
+      "whyChooseUs": {
+        "title": "Perché scegliere noi?",
+        "experience": {
+          "title": "Esperienza",
+          "description": "Oltre 15 anni di fornitura di attrezzature di alta qualità per il settore alberghiero."
+        },
+        "efficiency": {
+          "title": "Efficienza",
+          "description": "Le nostre attrezzature sono progettate per massimizzare l'efficienza energetica e ridurre i costi operativi."
+        },
+        "quality": {
+          "title": "Qualità",
+          "description": "Lavoriamo solo con i migliori marchi e materiali, garantendo durata e affidabilità."
+        }
+      },
+      "testimonials": {
+        "title": "Cosa dicono i nostri clienti",
+        "viewAll": "Vedi tutte le recensioni"
+      },
+      "blog": {
+        "title": "Blog & Consigli",
+        "viewAll": "Vedi tutti gli articoli"
+      },
+      "newsletter": {
+        "title": "Resta aggiornato!",
+        "description": "Iscriviti alla nostra newsletter e ricevi consigli, promozioni esclusive e novità dal settore della refrigerazione commerciale.",
+        "placeholder": "La tua email professionale",
+        "button": "Iscriviti",
+        "privacy": "Rispettiamo la tua privacy. Puoi annullare l'iscrizione in qualsiasi momento."
+      },
+      "partners": {
+        "title": "Partner e Marchi"
+      },
+      "cta": {
+        "title": "Pronto a trasformare la tua attività?",
+        "description": "Parla con i nostri esperti e scopri come le nostre attrezzature di refrigerazione possono ottimizzare la tua attività.",
+        "contactButton": "Contattaci",
+        "catalogButton": "Scarica catalogo"
+      },
+      "errors": {
+        "badRequest": "La richiesta non è valida. Controlla i tuoi dati.",
+        "unauthorized": "Devi effettuare il login per accedere a questa funzione.",
+        "forbidden": "Non hai il permesso di accedere a questa risorsa.",
+        "notFound": "La risorsa richiesta non è stata trovata.",
+        "serverError": "Si è verificato un errore sul server. Riprova più tardi.",
+        "unknown": "Si è verificato un errore imprevisto. Riprova."
+      }
+  }
+ }
+
+  

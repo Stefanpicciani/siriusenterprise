@@ -1,0 +1,270 @@
+{
+    "brand": "Sirius Store",
+    "nav": {
+      "products": "Produkte",
+      "support": "Support",
+      "contact": "Kontakt",
+      "login": "Anmelden",
+      "register": "Registrieren",
+      "logout": "Abmelden",
+      "cart": "Warenkorb",
+      "aboutUs": "Über uns",
+      "description": "KÜHLGERÄTE FÜR HOTELS"
+    },
+    "breadcrumb": {
+      "home": "Startseite",
+      "products": "Produkte",
+      "cart": "Warenkorb",
+      "checkout": "Zur Kasse",
+      "support": "Support",
+      "contact": "Kontakt",
+      "help": "Hilfe",
+      "login": "Anmelden",
+      "register": "Registrieren"
+    },
+    "checkout": {
+      "steps": {
+        "shipping": "Versand",
+        "billing": "Rechnung",
+        "payment": "Zahlung",
+        "review": "Überprüfung"
+      },
+      "shippingMethods": {
+        "standard": "Standardlieferung",
+        "express": "Expresslieferung",
+        "nextDay": "Lieferung am nächsten Tag"
+      }
+    },
+    "product": {
+      "title": "Produkte"
+    },
+    "footer": {
+      "aboutUs": "Über uns",
+      "aboutUsDescription": "Wir bieten hochwertige Ausrüstung für Hotels und Gewerbebetriebe, mit Fokus auf Exzellenz und Langlebigkeit.",
+      "quickLinks": "Schnelle Links",
+      "description": "KÜHLGERÄTE FÜR HOTELS",
+      "allRightsReserved": "Alle Rechte vorbehalten.",
+      "contact": "Kontakt",
+      "help": "Hilfe",
+      "support": "Support",
+      "ourLocations": "Unsere Standorte",
+      "secureSite": "Sichere und geschützte Seite",
+      "group": "Gruppe",
+      "qualityCertifications": "Qualität und Zertifizierung"
+    },
+    "routes": {
+      "home": "startseite",
+      "products": "produkte",
+      "contact": "kontakt",
+      "help": "hilfe",
+      "register": "registrieren",
+      "login": "anmelden",      
+      "cart": "warenkorb",
+      "forgotPassword": "passwort-vergessen",
+      "group": "gruppe",
+      "qualityCertifications": "qualitaetszertifikate"
+    },
+
+    "auth": {
+      "login": {
+        "title": "Melden Sie sich in Ihrem Konto an",
+        "subtitle": "Haben Sie noch kein Konto?",
+        "registerLink": "Registrieren",
+        "rememberMe": "Angemeldet bleiben",
+        "forgotPassword": "Passwort vergessen?",
+        "submit": "Anmelden",
+        "loggingIn": "Anmeldung läuft...",
+        "orContinueWith": "Oder fortfahren mit"
+      },
+      "register": {
+        "title": "Erstellen Sie Ihr Konto",
+        "subtitle": "Haben Sie bereits ein Konto?",
+        "loginLink": "Anmelden",
+        "agreeToTerms": "Ich stimme den",
+        "termsLink": "Nutzungsbedingungen",
+        "privacyLink": "Datenschutzrichtlinien zu",
+        "submit": "Registrieren",
+        "registering": "Registrierung läuft...",
+        "orContinueWith": "Oder fortfahren mit"
+      },
+      "fields": {
+        "firstName": "Vorname",
+        "lastName": "Nachname",
+        "email": "E-Mail",
+        "password": "Passwort",
+        "confirmPassword": "Passwort bestätigen"
+      },
+      "passwordStrength": {
+        "veryWeak": "Sehr schwach",
+        "weak": "Schwach",
+        "medium": "Mittel",
+        "good": "Gut",
+        "strong": "Stark",
+        "excellent": "Ausgezeichnet",
+        "minChars": "8+ Zeichen",
+        "uppercase": "Großbuchstabe",
+        "lowercase": "Kleinbuchstabe",
+        "number": "Zahl",
+        "specialChar": "Sonderzeichen"
+      },
+      "errors": {
+        "invalidCredentials": "Ungültige E-Mail oder Passwort.",
+        "emailAlreadyInUse": "Diese E-Mail wird bereits verwendet.",
+        "passwordsDontMatch": "Die Passwörter stimmen nicht überein.",
+        "serverError": "Ein Serverfehler ist aufgetreten. Bitte versuchen Sie es später noch einmal.",
+        "connectionError": "Keine Verbindung zum Server möglich. Bitte überprüfen Sie Ihre Internetverbindung."
+      },
+      "forgotPassword": {
+        "title": "Passwort zurücksetzen",
+        "subtitle": "Geben Sie Ihre E-Mail-Adresse ein, um Anweisungen zum Zurücksetzen Ihres Passworts zu erhalten.",
+        "submit": "Senden",
+        "sending": "Wird gesendet...",
+        "successMessage": "Wenn die E-Mail in unserem System existiert, erhalten Sie Anweisungen zum Zurücksetzen Ihres Passworts.",
+        "backToLogin": "Zurück zur Anmeldung"
+      }
+    },
+    
+    "animation": {
+      "skip": "Einführung überspringen",
+      "enter": "Sirius erkunden",
+      "loading": "Wird geladen...",
+      "trustBadge": "Qualitäts- und Vertrauensausrüstung seit 1957"
+    },
+
+    "home": {
+    "pageTitle": "Sirius - Professionelle Kühltechnik",
+    "pageDescription": "Komplette Kühllösungen für Hotels, Restaurants und Gewerbebetriebe",
+    "welcome": "Willkommen bei Sirius",
+    "subtitle": "Hochwertige Kältetechniklösungen für die Hotellerie",
+    "hero": {
+      "title": "Hochwertige Hotelausrüstung",
+      "description": "Verwandeln Sie Ihr Hotel mit unserer kompletten Linie professioneller Ausrüstung",
+      "button": "Produkte erkunden"
+    },
+    "benefits": {
+      "guarantee": {
+        "title": "Erweiterte Garantie",
+        "description": "Alle Produkte mit bis zu 3 Jahren Garantie"
+      },
+      "delivery": {
+        "title": "Kostenloser Versand",
+        "description": "Für Bestellungen über 1.000 €"
+      },
+      "support": {
+        "title": "24/7 Support",
+        "description": "Spezialisierte technische Unterstützung"
+      }
+    },
+    "trending": {
+      "title": "Am beliebtesten",
+      "subtitle": "Die Lieblingsprodukte unserer Kunden",
+      "viewAll": "Alle anzeigen"
+    },
+    "features": {
+      "title": "Unsere Vorteile",
+      "premiumProducts": {
+        "title": "Premium-Produkte",
+        "description": "Hochwertige Ausrüstung für Ihr Unternehmen"
+      },
+      "warranty": {
+        "title": "Erweiterte Garantie",
+        "description": "Sicherheit und Seelenfrieden mit Ihrem Kauf"
+      },
+      "delivery": {
+        "title": "Schnelle Lieferung",
+        "description": "Versand in die gesamte Europäische Union"
+      },
+      "support": {
+        "title": "24/7 Support",
+        "description": "Spezialisierte Unterstützung immer verfügbar"
+      }
+    },
+    "categories": {
+      "title": "Ausgewählte Kategorien",
+      "kitchen": "Gewerbeküche",
+      "laundry": "Wäscherei",
+      "furniture": "Möbel",
+      "explore": "Kategorie erkunden"
+    },
+    "quality": {
+      "title": "Qualität und Technologie",
+      "description": "Unser Unternehmen ist spezialisiert auf die Bereitstellung der besten Kühllösungen für die Hotelbranche, mit Fokus auf Qualität, Energieeffizienz und Spitzentechnologie."
+    },
+    "products": {
+      "title": "Unsere Produkte",
+      "subtitle": "Komplettlösungen für Ihre Einrichtung",
+      "refrigeratorsTitle": "Kühlschränke",
+      "freezersTitle": "Gefrierschränke",
+      "coldRoomsTitle": "Kühlräume",
+      "description": "Hochwertige, energieeffiziente Ausstattung für Ihr Unternehmen.",
+      "refrigerators": {
+        "description": "Gewerbekühlschränke mit fortschrittlicher Konservierungstechnologie und niedrigem Energieverbrauch.",
+        "feature1": "Digitale Temperaturkontrolle",
+        "feature2": "Türen mit Wärmedämmung",
+        "feature3": "Umweltfreundliches System"
+      },
+      "freezers": {
+        "description": "Vertikale und horizontale Gefrierschränke für die Langzeitlagerung mit hoher Effizienz.",
+        "feature1": "Schnelles und gleichmäßiges Einfrieren",
+        "feature2": "Automatisches Abtausystem",
+        "feature3": "Niedriger Geräuschpegel"
+      },
+      "coldRooms": {
+        "description": "Anpassbare modulare Kühlräume für verschiedene Bedürfnisse.",
+        "feature1": "Maßgeschneiderte Installation",
+        "feature2": "Fernsteuerung über App",
+        "feature3": "Energieeinsparungen von bis zu 40%"
+      },
+      "button": "Mehr erfahren",
+      "details": "Details",
+      "viewAll": "Alle Produkte anzeigen"
+    },
+    "whyChooseUs": {
+      "title": "Warum uns wählen?",
+      "experience": {
+        "title": "Erfahrung",
+        "description": "Über 15 Jahre Erfahrung in der Bereitstellung hochwertiger Ausrüstung für die Hotelbranche."
+      },
+      "efficiency": {
+        "title": "Effizienz",
+        "description": "Unsere Geräte sind darauf ausgelegt, die Energieeffizienz zu maximieren und die Betriebskosten zu senken."
+      },
+      "quality": {
+        "title": "Qualität",
+        "description": "Wir arbeiten nur mit den besten Marken und Materialien und gewährleisten Langlebigkeit und Zuverlässigkeit."
+      }
+    },
+    "testimonials": {
+      "title": "Was unsere Kunden sagen",
+      "viewAll": "Alle Bewertungen anzeigen"
+    },
+    "blog": {
+      "title": "Blog & Tipps",
+      "viewAll": "Alle Artikel anzeigen"
+    },
+    "newsletter": {
+      "title": "Bleiben Sie auf dem Laufenden!",
+      "description": "Abonnieren Sie unseren Newsletter und erhalten Sie Tipps, exklusive Angebote und Neuigkeiten aus dem Bereich der gewerblichen Kühltechnik.",
+      "placeholder": "Ihre berufliche E-Mail",
+      "button": "Abonnieren",
+      "privacy": "Wir respektieren Ihre Privatsphäre. Sie können das Abonnement jederzeit kündigen."
+    },
+    "partners": {
+      "title": "Partner und Marken"
+    },
+    "cta": {
+      "title": "Bereit, Ihr Geschäft zu transformieren?",
+      "description": "Sprechen Sie mit unseren Experten und entdecken Sie, wie unsere Kühltechnik Ihre Einrichtung optimieren kann.",
+      "contactButton": "Kontaktieren Sie uns",
+      "catalogButton": "Katalog herunterladen"
+    },
+    "errors": {
+      "badRequest": "Die Anfrage ist ungültig. Bitte überprüfen Sie Ihre Daten.",
+      "unauthorized": "Sie müssen sich anmelden, um auf diese Funktion zuzugreifen.",
+      "forbidden": "Sie haben keine Berechtigung, auf diese Ressource zuzugreifen.",
+      "notFound": "Die angeforderte Ressource wurde nicht gefunden.",
+      "serverError": "Auf dem Server ist ein Fehler aufgetreten. Bitte versuchen Sie es später erneut.",
+      "unknown": "Ein unerwarteter Fehler ist aufgetreten. Bitte versuchen Sie es erneut."
+    }    
+  }
+}

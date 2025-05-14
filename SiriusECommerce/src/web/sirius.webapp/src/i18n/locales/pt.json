@@ -1,0 +1,332 @@
+{
+    "brand": "Sirius Store",
+    "nav": {
+      "products": "Produtos",
+      "support": "Suporte",
+      "contact": "Contato",
+      "login": "Entrar",
+      "register": "Registrar",
+      "logout": "Sair",
+      "cart": "Carrinho",
+      "aboutUs": "Sobre nós",
+      "description": "EQUIPAMENTOS FRIOS HOTELEIROS"
+    },
+    "breadcrumb": {
+      "home": "Início",
+      "products": "Produtos",
+      "cart": "Carrinho",
+      "checkout": "Finalizar Compra",
+      "support": "Suporte",
+      "contact": "Contato",
+      "help": "Ajuda",
+      "login": "Entrar",
+      "register": "Registrar"
+    },
+    "checkout": {
+      "steps": {
+        "shipping": "Envio",
+        "billing": "Faturação",
+        "payment": "Pagamento",
+        "review": "Revisão"
+      },
+      "shippingMethods": {
+        "standard": "Entrega Padrão",
+        "express": "Entrega Expressa",
+        "nextDay": "Entrega no Dia Seguinte"
+      }
+    },
+    "common": {
+      "loading": "Carregando...",
+      "error": "Ocorreu um erro. Tente novamente.",
+      "success": "Sucesso!",
+      "warning": "Atenção!",
+      "info": "Informação",
+      "notFound": "Página não encontrada",
+      "backToHome": "Voltar para a página inicial",
+      "search": "Pesquisar",
+      "searchPlaceholder": "Pesquisar produtos...",
+      "searchResults": "Resultados da pesquisa",
+      "noResults": "Nenhum resultado encontrado",
+      "clear": "Limpar",
+      "apply": "Aplicar",
+      "cancel": "Cancelar",
+      "confirm": "Confirmar",
+      "edit": "Editar",
+      "delete": "Excluir",
+      "save": "Salvar",
+      "update": "Atualizar",
+      "view": "Ver",
+      "add": "Adicionar",
+      "remove": "Remover",
+      "continue": "Continuar",
+      "finish": "Finalizar",
+      "next": "Próximo",
+      "previous": "Anterior",
+      "select": "Selecionar",
+      "selectAll": "Selecionar Tudo",
+      "deselectAll": "Desmarcar Tudo",
+      "selectNone": "Nenhum Selecionado",
+      "selectOne": "Selecionar Um",
+      "selectMultiple": "Selecionar Vários",
+      "selectDate": "Selecionar Data",
+      "selectTime": "Selecionar Hora",
+      "selectDateTime": "Selecionar Data e Hora",
+      "selectRange": "Selecionar Intervalo"
+    },
+    "product": {
+      "title": "Produtos",
+      "addToCart": "Adicionar ao Carrinho",
+      "viewDetails": "Ver Detalhes",
+      "outOfStock": "Esgotado",
+      "inStock": "Em Estoque",
+      "price": "Preço",
+      "quantity": "Quantidade",
+      "description": "Descrição",
+      "reviews": "Avaliações",
+      "relatedProducts": "Produtos Relacionados"
+    },
+    "cart": {
+      "title": "Carrinho de Compras",
+      "empty": "Seu carrinho está vazio.",
+      "items": "Itens no Carrinho",
+      "subtotal": "Subtotal",
+      "total": "Total",
+      "checkout": "Finalizar Compra",
+      "continueShopping": "Continuar Comprando",
+      "removeItem": "Remover Item",
+      "updateQuantity": "Atualizar Quantidade",
+      "proceedToCheckout": "Prosseguir para o Checkout"
+    },
+    "footer": {
+      "aboutUs": "Sobre nós",
+      "aboutUsDescription": "Fornecemos equipamentos de alta qualidade para hotéis e estabelecimentos comerciais, com foco em excelência e durabilidade."       ,
+      "quickLinks": "Links Rápidos",
+      "privacyPolicy": "Política de Privacidade",
+      "termsOfService": "Termos de Serviço",
+      "contactUs": "Fale Conosco",
+      "description": "EQUIPAMENTOS FRIOS HOTELEIROS",
+      "allRightsReserved": "Todos os direitos reservados.",
+      "contact": "Contacto",
+      "help": "Ajuda",
+      "support": "Suporte",
+      "ourLocations": "Nossas Localizações",
+      "secureSite": "Site Seguro e Criptografado",
+      "group": "Grupo",
+      "qualityCertifications": "Certificações de Qualidade"
+    },
+    "routes": {
+      "home": "inicio",
+      "products": "produtos",
+      "contact": "contato",
+      "help": "ajuda",
+      "register": "registrar",
+      "login": "entrar",
+      "cart": "carrinho",
+      "forgotPassword": "redefinir-senha",
+      "group": "grupo",
+      "qualityCertifications": "certificacoes-de-qualidade"
+    },
+
+    "auth": {
+      "login": {
+        "title": "Acesse sua conta",
+        "subtitle": "Não tem uma conta ainda?",
+        "registerLink": "Registre-se",
+        "rememberMe": "Lembrar-me",
+        "forgotPassword": "Esqueceu sua senha?",
+        "submit": "Entrar",
+        "loggingIn": "Entrando...",
+        "orContinueWith": "Ou continue com"
+      },
+      "register": {
+        "title": "Crie sua conta",
+        "subtitle": "Já tem uma conta?",
+        "loginLink": "Acesse",
+        "agreeToTerms": "Concordo com os",
+        "termsLink": "Termos de Serviço",
+        "privacyLink": "Política de Privacidade",
+        "submit": "Cadastrar",
+        "registering": "Cadastrando...",
+        "orContinueWith": "Ou continue com"
+      },
+      "fields": {
+        "firstName": "Nome",
+        "lastName": "Sobrenome",
+        "email": "Email",
+        "password": "Senha",
+        "confirmPassword": "Confirmar Senha"
+      },
+      "passwordStrength": {
+        "veryWeak": "Muito fraca",
+        "weak": "Fraca",
+        "medium": "Média",
+        "good": "Boa",
+        "strong": "Forte",
+        "excellent": "Excelente",
+        "minChars": "8+ caracteres",
+        "uppercase": "Letra maiúscula",
+        "lowercase": "Letra minúscula",
+        "number": "Número",
+        "specialChar": "Caractere especial"
+      },
+      "errors": {
+        "invalidCredentials": "Email ou senha inválidos.",
+        "emailAlreadyInUse": "Este email já está sendo utilizado.",
+        "passwordsDontMatch": "As senhas não coincidem.",
+        "serverError": "Ocorreu um erro no servidor. Tente novamente mais tarde.",
+        "connectionError": "Não foi possível conectar ao servidor. Verifique sua conexão de internet."
+      },
+      "forgotPassword": {
+        "title": "Recuperar senha",
+        "subtitle": "Digite seu email para receber instruções de redefinição de senha.",
+        "submit": "Enviar",
+        "sending": "Enviando...",
+        "successMessage": "Se o email existir em nosso sistema, você receberá instruções para redefinir sua senha.",
+        "backToLogin": "Voltar para Login"
+      }
+    },
+
+    "animation": {
+      "skip": "Pular Introdução",
+      "enter": "Explorar Sirius",
+      "loading": "Carregando...",
+      "trustBadge": "Equipamentos de Qualidade e Confiança desde 1957"
+    },
+
+    "home": {
+    "pageTitle": "Sirius - Equipamentos de Refrigeração Profissional",
+    "pageDescription": "Soluções completas em refrigeração para hotelaria, restaurantes e estabelecimentos comerciais",
+    "welcome": "Bem-vindo à Sirius",
+    "subtitle": "Soluções em equipamentos frios para hotelaria de alta qualidade",
+    "hero": {
+      "title": "Equipamentos Hoteleiros de Alta Qualidade",
+      "description": "Transforme seu hotel com nossa linha completa de equipamentos profissionais",
+      "button": "Explorar Produtos"
+    },
+    "benefits": {
+      "guarantee": {
+        "title": "Garantia Estendida",
+        "description": "Todos os produtos com até 3 anos de garantia"
+      },
+      "delivery": {
+        "title": "Frete Grátis",
+        "description": "Para pedidos acima de R$ 5.000"
+      },
+      "support": {
+        "title": "Suporte 24/7",
+        "description": "Assistência técnica especializada"
+      }
+    },
+    "trending": {
+      "title": "Mais Procurados",
+      "subtitle": "Os produtos preferidos pelos nossos clientes",
+      "viewAll": "Ver todos"
+    },
+    "features": {
+      "title": "Nossos Diferenciais",
+      "premiumProducts": {
+        "title": "Produtos Premium",
+        "description": "Equipamentos de alta qualidade para seu negócio"
+      },
+      "warranty": {
+        "title": "Garantia Estendida",
+        "description": "Segurança e tranquilidade na sua compra"
+      },
+      "delivery": {
+        "title": "Entrega Rápida",
+        "description": "Envio para toda a União Europeia"
+      },
+      "support": {
+        "title": "Suporte 24/7",
+        "description": "Assistência especializada sempre disponível"
+      }
+    },
+    "categories": {
+      "title": "Categorias em Destaque",
+      "kitchen": "Cozinha Industrial",
+      "laundry": "Lavanderia",
+      "furniture": "Mobiliário",
+      "explore": "Explorar Categoria"
+    },
+    "quality": {
+      "title": "Qualidade e Tecnologia",
+      "description": "Nossa empresa é especializada em fornecer as melhores soluções em refrigeração para o setor hoteleiro, com foco em qualidade, eficiência energética e tecnologia de ponta."
+    },
+    "products": {
+      "title": "Nossos Produtos",
+      "subtitle": "Soluções completas para seu estabelecimento",
+      "refrigeratorsTitle": "Refrigeradores",
+      "freezersTitle": "Freezers",
+      "coldRoomsTitle": "Câmaras Frigoríficas",
+      "description": "Equipamentos de alta qualidade e eficiência energética para seu negócio.",
+      "refrigerators": {
+        "description": "Refrigeradores comerciais com tecnologia avançada de conservação e baixo consumo energético.",
+        "feature1": "Controle digital de temperatura",
+        "feature2": "Portas com isolamento térmico",
+        "feature3": "Sistema eco-friendly"
+      },
+      "freezers": {
+        "description": "Freezers verticais e horizontais para armazenamento de longo prazo com alta eficiência.",
+        "feature1": "Congelamento rápido e uniforme",
+        "feature2": "Sistema de degelo automático",
+        "feature3": "Baixo nível de ruído"
+      },
+      "coldRooms": {
+        "description": "Câmaras frigoríficas modulares personalizáveis para diferentes necessidades.",
+        "feature1": "Instalação personalizada",
+        "feature2": "Controle remoto via aplicativo",
+        "feature3": "Economia energética de até 40%"
+      },
+      "button": "Saiba mais",
+      "details": "Detalhes",
+      "viewAll": "Ver todos os produtos"
+    },
+    "whyChooseUs": {
+      "title": "Por que nos escolher?",
+      "experience": {
+        "title": "Experiência",
+        "description": "Mais de 15 anos fornecendo equipamentos de alta qualidade para o setor hoteleiro."
+      },
+      "efficiency": {
+        "title": "Eficiência",
+        "description": "Nossos equipamentos são projetados para maximizar a eficiência energética e reduzir custos operacionais."
+      },
+      "quality": {
+        "title": "Qualidade",
+        "description": "Trabalhamos apenas com as melhores marcas e materiais, garantindo durabilidade e confiabilidade."
+      }
+    },
+    "testimonials": {
+      "title": "O que nossos clientes dizem",
+      "viewAll": "Ver todas as avaliações"
+    },
+    "blog": {
+      "title": "Blog & Dicas",
+      "viewAll": "Ver todos os artigos"
+    },
+    "newsletter": {
+      "title": "Mantenha-se atualizado!",
+      "description": "Assine nossa newsletter e receba dicas, promoções exclusivas e novidades do setor de refrigeração comercial.",
+      "placeholder": "Seu e-mail profissional",
+      "button": "Assinar",
+      "privacy": "Respeitamos sua privacidade. Você pode cancelar a assinatura a qualquer momento."
+    },
+    "partners": {
+      "title": "Parceiros e Marcas"
+    },
+    "cta": {
+      "title": "Pronto para transformar seu negócio?",
+      "description": "Converse com nossos especialistas e descubra como nossos equipamentos de refrigeração podem otimizar seu estabelecimento.",
+      "contactButton": "Entre em contato",
+      "catalogButton": "Baixar catálogo"
+    },
+    "errors": {
+      "badRequest": "A solicitação é inválida. Por favor, verifique seus dados.",
+      "unauthorized": "Você precisa fazer login para acessar este recurso.",
+      "forbidden": "Você não tem permissão para acessar este recurso.",
+      "notFound": "O recurso solicitado não foi encontrado.",
+      "serverError": "Ocorreu um erro no servidor. Por favor, tente novamente mais tarde.",
+      "unknown": "Ocorreu um erro inesperado. Por favor, tente novamente."
+    }
+  }
+  }

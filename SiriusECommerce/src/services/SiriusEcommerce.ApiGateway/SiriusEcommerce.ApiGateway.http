@@ -1,0 +1,6 @@
+@SiriusEcommerce.ApiGateway_HostAddress = http://localhost:5086
+
+GET {{SiriusEcommerce.ApiGateway_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
